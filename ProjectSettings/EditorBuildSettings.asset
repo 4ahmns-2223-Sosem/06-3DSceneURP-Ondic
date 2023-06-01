@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CarScene.unity
     guid: 66250a32406a3e147abbd6892977f7fe
+  - enabled: 1
+    path: Assets/Scenes/TestLobby.unity
+    guid: 075a2dbd71646d24da0d47e4ec7ecef4
   m_configObjects: {}

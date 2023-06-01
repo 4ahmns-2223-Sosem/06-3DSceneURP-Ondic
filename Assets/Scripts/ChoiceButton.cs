@@ -22,7 +22,7 @@ public class ChoiceButton : MonoBehaviour
 
         if (isBicycle) 
         {
-            if (Input.GetKeyDown("q"))
+            if (Input.GetKeyDown("e"))
             {
                 Debug.Log("Scene loaded 1");
                 TeleportBicycle();
