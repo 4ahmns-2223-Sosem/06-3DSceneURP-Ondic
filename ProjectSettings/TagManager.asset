@@ -9,6 +9,9 @@ TagManager:
   - Test
   - Obstacle
   - Trash
+  - Trash1
+  - Trash2
+  - Trash3
   layers:
   - Default
   - TransparentFX
