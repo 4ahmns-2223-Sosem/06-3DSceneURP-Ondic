@@ -26,12 +26,16 @@ zur Map mehr Bezug geben
 ### Synthaxelemente:
 Methodendeklaration: Script-RandomSpawner, Zeile.16
 ![deklartaion](https://github.com/4ahmns-2223-Sosem/06-3DSceneURP-Ondic/assets/91017666/648d9387-d9cb-42c9-be70-a5e263ab64be)
+
 Methodenaufruf: Script-ScoreSyst, Zeile-33
 ![aufruf](https://github.com/4ahmns-2223-Sosem/06-3DSceneURP-Ondic/assets/91017666/66282fac-60ab-4250-9fe9-7c1ad6f865a8)
+
 If/else-if: Script-PickUps, Zeile-28
 ![ifelse](https://github.com/4ahmns-2223-Sosem/06-3DSceneURP-Ondic/assets/91017666/0a8a253f-3298-4a3d-a86b-ce26ca78aa80)
+
 Array: Script-RandomSpawner, Zeile-8
 ![array](https://github.com/4ahmns-2223-Sosem/06-3DSceneURP-Ondic/assets/91017666/7a2577f0-f2ca-436d-919a-db921eb8b371)
+
 
 ### Enwicklungsplattform: 
 + Windows 10; 
