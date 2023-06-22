@@ -6,7 +6,7 @@ using TMPro;
 
 public class ScoreSyst : MonoBehaviour
 {
-    public TMP_Text ScoreText;
+    public TextMesh ScoreText;
     public PickUps script;
     public int maxScore;
     public GameObject Score;
