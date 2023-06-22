@@ -3878,10 +3878,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f90e6bb746e1464cb5e3cf4875f792e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScoreText: {fileID: 1479652605}
+  scoreText: {fileID: 1479652605}
   script: {fileID: 8287963179128512403}
   maxScore: 20
-  Score: {fileID: 1479652603}
+  score: {fileID: 1479652603}
 --- !u!23 &8967081243922592042
 MeshRenderer:
   m_ObjectHideFlags: 0

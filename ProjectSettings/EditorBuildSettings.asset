@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/FirstScene.unity
+    path: Assets/MyGame/Scenes/FirstScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
-    path: Assets/Scenes/BicycleScene.unity
+    path: Assets/MyGame/Scenes/BicycleScene.unity
     guid: 488cbb50afc993d45a2bd694d4dc6dfd
   - enabled: 1
-    path: Assets/Scenes/CarScene.unity
+    path: Assets/MyGame/Scenes/CarScene.unity
     guid: 66250a32406a3e147abbd6892977f7fe
   - enabled: 1
-    path: Assets/Scenes/TestLobby.unity
+    path: Assets/MyGame/Scenes/TestLobby.unity
     guid: 075a2dbd71646d24da0d47e4ec7ecef4
   m_configObjects: {}
