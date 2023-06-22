@@ -6,6 +6,15 @@
 ### Message:
 Das man nicht immer den einfachsten Weg nehmen soll, nur für seine eigenen Vorteile und dabei ignoriert wie es andere und die Umwelt betrifft. Sondern mal den "härteren" Weg nehmen soll der im längeren Verlauf besser für einen selbst, mitmenschen und Umwelt ist.
 
+### Steuerung:
+W - bewegt sich nach vorne
+A - bewegt sich nach links
+S - bewegt sich nach hinten
+D - bewegt sich nach rechts
+L - zurück zur MainLobby
+R - Restart vom jetztigen Level
+E - Auswahl des Fahrzeugs in "FirstScene"
+
 ### Ablauf:
 Man startet in der "FirstScene" und kann sich dann zwischen den zwei Fahrzeugen entscheiden und dann kommt man zur jeweiligen Scene spielt sie durch und kommt zurück zur "FirstScene" nach completion.
 
