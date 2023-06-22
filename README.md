@@ -43,6 +43,7 @@ Array: Script-RandomSpawner, Zeile-8
 + Unit 2020.3.18f1
 
 ### Lessons Learned:
+Ich hab mehr über Controller steuerungen gelernt, bezüglich des Controllers vom Auto und Fahrrad.
 
 ### Limitations:
 Fahrrad-Controller funktioniert nicht ganz wie gewünscht und braucht etwas zeit zum beschleunigen. Müll den man aufsammeln muss im Fahrrad Level verschwindet nicht nach dem aufsammeln. Hätte mir mehr gewünscht das es mehr visuell aufgebaut ist aber hab mein Fokus aufs programmieren gelegt. Fahrrad Level hätte eigentlich paar rampen beinhalten soll wo man drüber fahren kann und man hätte mehr freiheit mit dem Fahrrad fahren gehabt war jedoch zu schwer zum umsetzen.
